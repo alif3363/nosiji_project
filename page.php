@@ -2,7 +2,7 @@
 
 class nourut(){
 
-	public $angkaakhir ;
+	public $angkax ;
 }
 
 
